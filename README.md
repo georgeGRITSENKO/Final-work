@@ -9,3 +9,9 @@
 
 ## Блок схема решения
 ![блок схема](https://raw.githubusercontent.com/georgeGRITSENKO/Final-work/main/diagram.png) 
+
+## Запуск программы
+
+Решение к задаче находится в папке finalWORK. Названия файла Program.cs 
+
+# Хорошего дня!
