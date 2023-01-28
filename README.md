@@ -8,3 +8,4 @@
 4. Выводим новый массив как результат
 
 ## Блок схема решения
+![блок схема](https://raw.githubusercontent.com/georgeGRITSENKO/Final-work/main/diagram.png) 
